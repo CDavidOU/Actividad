@@ -1,7 +1,6 @@
 package org.example;
 
 public class Actividade {
-
     public static void main(String[] args) {
         System.out.println("Hola como estas amigo Carlos");
         System.out.println("Numero del 1 al 10");
@@ -11,4 +10,5 @@ public class Actividade {
 
         System.out.println("Es el segundo commit asi que adiooos");
     }
+    System.out.println("Gali");
 }
