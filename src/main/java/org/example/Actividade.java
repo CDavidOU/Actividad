@@ -9,6 +9,6 @@ public class Actividade {
         }
 
         System.out.println("Es el segundo commit asi que adiooos");
+
     }
-    System.out.println("Gali");
 }
